@@ -8,4 +8,4 @@ The quadcopter frame design files are available as well on the Open Source Hardw
 
 Good luck and most importantly: have fun!
 
-[![alt text](https://github.com/CarbonAeronautics/Manual/blob/db7c4cb1e18d58348f50fcf3cfcc0344a582109c/FRONT_PAGE.png?raw=true)](https://github.com/CarbonAeronautics/Manual/blob/e6c9e0f6e2309d4ba5cee578a59aa716f51b66a9/Carbon_Aeronautics_Quadcopter_Manual_Rate_Mode.pdf)
+[![alt text](https://github.com/CarbonAeronautics/Manual/blob/db7c4cb1e18d58348f50fcf3cfcc0344a582109c/FRONT_PAGE.png?raw=true)](https://github.com/CarbonAeronautics/Manual-Quadcopter-Drone/blob/0cc792adf7208d7c49117290a5f9fb2afe4cd267/Carbon_Aeronautics_Quadcopter_Manual.pdf)
